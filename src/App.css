@@ -1,0 +1,33 @@
+/* signup page */
+.registration{
+background-image: url('../image/bac.gif');
+background-size: cover;
+text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;  
+}
+/* login page  */
+.login1{
+  background-image: url('../image/bac2.gif');
+background-size: cover;
+text-align: center;
+height: 500px;
+  
+}
+.container1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+
+}
+/* .homepage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+} */
